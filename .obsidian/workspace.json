@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "28a82bb067bb94a4",
+        "id": "5bf611abf4e4ef0f",
         "type": "tabs",
         "children": [
           {
-            "id": "4112c5df79cba803",
+            "id": "cf75d933442781ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Notes/LCM-LoRA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "82b50e8447d960e4",
+            "id": "8eb2b53a0504c9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Notes/Diffusion Model.md",
+                "file": "Product Management/PM工作原则.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Notes/Diffusion Model.md",
+                "file": "Product Management/PM工作原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Notes/Diffusion Model.md",
+                "file": "Product Management/PM工作原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Notes/Diffusion Model.md"
+                "file": "Product Management/PM工作原则.md"
               }
             }
           }
@@ -159,20 +155,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "82b50e8447d960e4",
+  "active": "8eb2b53a0504c9c5",
   "lastOpenFiles": [
-    "AI Notes/LCM-LoRA.md",
+    "Paper/LLM Practice/LoRA Low-Rank Adaptation of Large Language Models.pdf",
     "AI Notes/LoRA.md",
+    "AI Notes/LCM-LoRA.md",
+    "AI Notes/Diffusion Model.md",
+    "Product Management/PM工作原则.md",
+    "Paper/AI Safety/001-因果熵强迫.pdf",
+    "Product Management",
+    "Paper/LLM Basic/Sequence to Sequence Learning with Neural Networks.pdf",
+    "Paper/LLM Basic/Efficient Estimation of Word Representations in Vector Space.pdf",
+    "Paper/LLM Basic/A fast learning algorithm for deep belief nets.pdf",
+    "Paper/LLM Practice/LCM-LoRA.pdf",
     "Paper/LLM Practice/Structured Prompting Scaling In-Context Learning to 1000 Examples.pdf",
     "Paper/LLM Practice/Structured Prompt Tuning.pdf",
-    "Paper/LLM Practice/LCM-LoRA.pdf",
-    "Paper/LLM Basic/Sequence to Sequence Learning with Neural Networks.pdf",
-    "Paper/LLM Basic/Learning to Generate Reviews and Discovering Sentiment.pdf",
-    "Paper/LLM Basic/Imagenet Classification with Deep Convolutional Neural Networks.pdf",
-    "Paper/LLM Basic/Efficient Estimation of Word Representations in Vector Space.pdf",
-    "Paper/LLM Basic/Distributed Representations of Words and Phrases and their Compositionality.pdf",
-    "Paper/LLM Basic/Attention Is All You Need.pdf",
-    "Paper/LLM Basic/A fast learning algorithm for deep belief nets.pdf",
-    "AI Notes/Diffusion Model.md"
+    "Paper/LLM Basic/Learning to Generate Reviews and Discovering Sentiment.pdf"
   ]
 }
