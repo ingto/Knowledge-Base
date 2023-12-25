@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Notes/LoRA.md",
+                "file": "AI Notes/Diffusion Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Notes/LoRA.md",
+                "file": "AI Notes/Diffusion Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Notes/LoRA.md",
+                "file": "AI Notes/Diffusion Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Notes/LoRA.md"
+                "file": "AI Notes/Diffusion Model.md"
               }
             }
           }
@@ -161,10 +161,18 @@
   },
   "active": "82b50e8447d960e4",
   "lastOpenFiles": [
-    "AI Notes/Diffusion Model.md",
     "AI Notes/LCM-LoRA.md",
     "AI Notes/LoRA.md",
-    "Paper/LLM Practice/LoRA Low-Rank Apaptation of Large Language Models.pdf",
-    "未命名"
+    "Paper/LLM Practice/Structured Prompting Scaling In-Context Learning to 1000 Examples.pdf",
+    "Paper/LLM Practice/Structured Prompt Tuning.pdf",
+    "Paper/LLM Practice/LCM-LoRA.pdf",
+    "Paper/LLM Basic/Sequence to Sequence Learning with Neural Networks.pdf",
+    "Paper/LLM Basic/Learning to Generate Reviews and Discovering Sentiment.pdf",
+    "Paper/LLM Basic/Imagenet Classification with Deep Convolutional Neural Networks.pdf",
+    "Paper/LLM Basic/Efficient Estimation of Word Representations in Vector Space.pdf",
+    "Paper/LLM Basic/Distributed Representations of Words and Phrases and their Compositionality.pdf",
+    "Paper/LLM Basic/Attention Is All You Need.pdf",
+    "Paper/LLM Basic/A fast learning algorithm for deep belief nets.pdf",
+    "AI Notes/Diffusion Model.md"
   ]
 }
