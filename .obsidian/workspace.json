@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Management/PM工作原则.md",
+                "file": "Product Management/PM工作原则 V0.1.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Management/PM工作原则.md",
+                "file": "Product Management/PM工作原则 V0.1.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Management/PM工作原则.md",
+                "file": "Product Management/PM工作原则 V0.1.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Management/PM工作原则.md"
+                "file": "Product Management/PM工作原则 V0.1.0.md"
               }
             }
           }
@@ -161,7 +161,7 @@
     "AI Notes/LoRA.md",
     "AI Notes/LCM-LoRA.md",
     "AI Notes/Diffusion Model.md",
-    "Product Management/PM工作原则.md",
+    "Product Management/PM工作原则 V0.1.0.md",
     "Paper/AI Safety/001-因果熵强迫.pdf",
     "Product Management",
     "Paper/LLM Basic/Sequence to Sequence Learning with Neural Networks.pdf",
