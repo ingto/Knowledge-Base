@@ -1,4 +1,4 @@
-#AI/LoRA 
+#AI #AI/LoRA 
 
 Paper Online: https://arxiv.org/abs/2106.09685
 Paper: [[LoRA Low-Rank Adaptation of Large Language Models.pdf]]

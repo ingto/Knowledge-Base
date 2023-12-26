@@ -1,4 +1,4 @@
-#AI/LoRA #AI/Diffusion-Model/LCM    
+#AI  #AI/LoRA #AI/Diffusion-Model/LCM    
 
 Demo: https://www.fal.ai/dynamic
 Paper Brief Video: https://www.youtube.com/watch?v=VjmMwu1HPfw

@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf75d933442781ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8eb2b53a0504c9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Management/PM工作原则 V0.1.1.md",
-                "mode": "source",
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#AI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "e20e0c2e94363f6e",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Management/PM工作原则 V0.1.1.md",
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Management/PM工作原则 V0.1.1.md",
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Management/PM工作原则 V0.1.1.md"
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,19 +148,22 @@
   },
   "active": "8eb2b53a0504c9c5",
   "lastOpenFiles": [
+    "Self-Management/《SuperBetter（游戏改变人生）》.md",
+    "Product Management/PM工作原则 V0.1.1.md",
+    "Images/SuperBetter-1.png",
+    "Images",
     "AI Notes/Diffusion Model.md",
     "AI Notes/LoRA.md",
     "AI Notes/LCM-LoRA.md",
+    "2023-12-26.md",
+    "AI Paper/LLM Basic/A fast learning algorithm for deep belief nets.pdf",
+    "AI Paper/LLM Basic/Distributed Representations of Words and Phrases and their Compositionality.pdf",
+    "AI Paper/LLM Basic/Efficient Estimation of Word Representations in Vector Space.pdf",
+    "AI Paper/LLM Basic/Attention Is All You Need.pdf",
+    "AI Paper/LLM Basic/Imagenet Classification with Deep Convolutional Neural Networks.pdf",
+    "Self-Management",
     "AI Paper/LLM Practice/LoRA Low-Rank Adaptation of Large Language Models.pdf",
     "AI Paper/LLM Practice/LCM-LoRA.pdf",
-    "Product Management/PM工作原则 V0.1.1.md",
-    "AI Paper/AI Safety/001-因果熵强迫.pdf",
-    "Product Management",
-    "AI Paper/LLM Basic/Sequence to Sequence Learning with Neural Networks.pdf",
-    "AI Paper/LLM Basic/Efficient Estimation of Word Representations in Vector Space.pdf",
-    "AI Paper/LLM Basic/A fast learning algorithm for deep belief nets.pdf",
-    "AI Paper/LLM Practice/Structured Prompting Scaling In-Context Learning to 1000 Examples.pdf",
-    "AI Paper/LLM Practice/Structured Prompt Tuning.pdf",
-    "AI Paper/LLM Basic/Learning to Generate Reviews and Discovering Sentiment.pdf"
+    "AI Paper/AI Safety/001-因果熵强迫.pdf"
   ]
 }
