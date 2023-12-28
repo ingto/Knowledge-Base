@@ -11,14 +11,11 @@
             "id": "8eb2b53a0504c9c5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Self-Management/自我管理备忘录.canvas",
-                "viewState": {
-                  "x": 697.7841550456998,
-                  "y": -284.70084005348264,
-                  "zoom": -1.6625881466026993
-                }
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Management/自我管理备忘录.canvas",
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Management/自我管理备忘录.canvas",
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-Management/自我管理备忘录.canvas"
+                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md"
               }
             }
           }
@@ -151,8 +148,8 @@
   },
   "active": "8eb2b53a0504c9c5",
   "lastOpenFiles": [
-    "Self-Management/《SuperBetter（游戏改变人生）》.md",
     "Self-Management/自我管理备忘录.canvas",
+    "Self-Management/《SuperBetter（游戏改变人生）》.md",
     "AI Paper/LLM Practice/Structured Prompt Tuning.pdf",
     "AI Paper/LLM Practice/LCM-LoRA.pdf",
     "Product Management/PM工作原则 V0.1.1.md",
