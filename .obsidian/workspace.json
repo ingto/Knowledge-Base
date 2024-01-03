@@ -11,11 +11,14 @@
             "id": "8eb2b53a0504c9c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
-                "mode": "source",
-                "source": false
+                "file": "3-Society/Self-Management/自我管理备忘录.canvas",
+                "viewState": {
+                  "x": 207.5,
+                  "y": 2200,
+                  "zoom": -2.863899876205954
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AI",
+                "query": "tag:#Intelligence/AI/Diffusion-Model",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
+                "file": "3-Society/Self-Management/自我管理备忘录.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md",
+                "file": "3-Society/Self-Management/自我管理备忘录.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-Management/《SuperBetter（游戏改变人生）》.md"
+                "file": "3-Society/Self-Management/自我管理备忘录.canvas"
               }
             }
           }
@@ -134,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,23 +152,47 @@
   },
   "active": "8eb2b53a0504c9c5",
   "lastOpenFiles": [
+    "1-Life/Paper/001-因果熵强迫.pdf",
+    "3-Society/Self-Management/自我管理备忘录.canvas",
+    "1-Life/Paper/001-Causal Entropic Forces.pdf",
+    "1-Life/Notes/About Life.md",
+    "3-Society/Self-Management/《SuperBetter（游戏改变人生）》.md",
+    "3-Society/Relationship/About Relationship.md",
+    "3-Society/Self-Management/IMG-《SuperBetter》-1.png",
+    "3-Society/Self-Management/IMG-《为什么没人早点告诉我》.jpg",
+    "3-Society/IMG-《为什么没人早点告诉我》.jpg",
+    "IMG-《为什么没人早点告诉我》.jpg",
+    "3-Society/Start-Up/Sam.md",
+    "3-Society/Start-Up/有效加速主义.md",
+    "2-Intelligence/Notes/About Intelligence.md",
+    "1-Life/Paper/003-能量流和生命的组织.pdf",
+    "1-Life/Paper/003-Energy flow and the organization of life.pdf",
+    "1-Life/Paper/Energy flow and the organization of life.pdf",
+    "1-Life/Paper/能量流和生命的组织.pdf",
+    "1-Life/Energy flow and the organization of life.pdf",
+    "1-Life/能量流和生命的组织.pdf",
+    "Energy flow and the organization of life.pdf",
+    "能量流和生命的组织.pdf",
+    "3-Society/Self-Management/IMG-SuperBetter-1.png",
+    "3-Society/Product Management/PM工作原则 V0.1.1.md",
+    "2-Intelligence/Notes/LoRA.md",
+    "2-Intelligence/Notes/Diffusion Model.md",
+    "2-Intelligence/Notes/LCM-LoRA.md",
+    "Society/Self-Management/IMG-SuperBetter-1.png",
+    "Society/Self-Management/《SuperBetter（游戏改变人生）》.md",
+    "Society/Self-Management/自我管理备忘录.canvas",
     "Self-Management/自我管理备忘录.canvas",
+    "Society/Start-Up/Sam.md",
+    "Society/Product Management/PM工作原则 V0.1.1.md",
+    "Intelligence/AI Notes/LoRA.md",
+    "Intelligence/AI Notes/LCM-LoRA.md",
+    "Intelligence/AI Notes/Diffusion Model.md",
     "Self-Management/《SuperBetter（游戏改变人生）》.md",
-    "AI Paper/LLM Practice/Structured Prompt Tuning.pdf",
-    "AI Paper/LLM Practice/LCM-LoRA.pdf",
     "Product Management/PM工作原则 V0.1.1.md",
-    "Images/SuperBetter-1.png",
-    "Images",
+    "Start-Up/Sam.md",
     "AI Notes/Diffusion Model.md",
     "AI Notes/LoRA.md",
     "AI Notes/LCM-LoRA.md",
-    "2023-12-26.md",
-    "AI Paper/LLM Basic/A fast learning algorithm for deep belief nets.pdf",
-    "AI Paper/LLM Basic/Distributed Representations of Words and Phrases and their Compositionality.pdf",
-    "AI Paper/LLM Basic/Efficient Estimation of Word Representations in Vector Space.pdf",
-    "AI Paper/LLM Basic/Attention Is All You Need.pdf",
-    "AI Paper/LLM Basic/Imagenet Classification with Deep Convolutional Neural Networks.pdf",
-    "Self-Management",
-    "AI Paper/LLM Practice/LoRA Low-Rank Adaptation of Large Language Models.pdf"
+    "2023-12-26.md"
   ]
 }

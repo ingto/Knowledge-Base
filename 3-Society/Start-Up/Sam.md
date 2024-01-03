@@ -1,0 +1,1 @@
+They have a laser focus on the next step in front of them combined with long-term vision
