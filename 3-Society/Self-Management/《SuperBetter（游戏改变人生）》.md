@@ -248,4 +248,4 @@ TED Talk: https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10
 
 It turns out that people who regularly boost these four types of resilience -- physical, mental, emotional and social -- live 10 years longer than everyone else. So this is true. ==If you are regularly achieving the three-to-one positive emotion ratio, if you are never sitting still for more than an hour at a time, if you are reaching out to one person you care about every single day, if you are tackling tiny goals to boost your willpower==, you will live 10 years longer than everyone else.
 
-![[IMG-SuperBetter-1.png]]
+![[IMG-《SuperBetter》-1.png]]
