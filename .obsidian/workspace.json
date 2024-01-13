@@ -11,14 +11,11 @@
             "id": "8eb2b53a0504c9c5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3-Society/Self-Management/自我管理备忘录.canvas",
-                "viewState": {
-                  "x": 493.0176901215255,
-                  "y": 280.8713980290302,
-                  "zoom": -0.39004480222860977
-                }
+                "file": "2-Intelligence/Paper/LLM Practice/Agent/未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 236.5
   },
   "right": {
     "id": "e20e0c2e94363f6e",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Society/Self-Management/自我管理备忘录.canvas",
+                "file": "2-Intelligence/Paper/LLM Practice/Agent/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Society/Self-Management/自我管理备忘录.canvas",
+                "file": "2-Intelligence/Paper/LLM Practice/Agent/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Society/Self-Management/自我管理备忘录.canvas"
+                "file": "2-Intelligence/Paper/LLM Practice/Agent/未命名.md"
               }
             }
           }
@@ -137,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,27 +148,31 @@
   },
   "active": "8eb2b53a0504c9c5",
   "lastOpenFiles": [
+    "3-Society/Self-Management/《SuperBetter（游戏改变人生）》.md",
+    "2-Intelligence/Paper/LLM Practice/Agent/未命名.md",
+    "2-Intelligence/Paper/LLM Practice/Agent",
+    "3-Society/Self-Management/自我管理备忘录.canvas",
+    "3-Society/Self-Management/证悟的力量、勇气与匪气.md",
+    "2-Intelligence/Notes/LCM-LoRA.md",
+    "2-Intelligence/Notes/Diffusion Model.md",
+    "2-Intelligence/Notes/LoRA.md",
+    "2-Intelligence/Notes/About Intelligence.md",
+    "3-Society/Self-Management/IMG-Buddhist.jpeg",
+    "3-Society/Self-Management/IMG-《为什么没人早点告诉我》.jpg",
     "3-Society/Self-Management/IMG-StarCraft II.jpeg",
     "3-Society/Self-Management/StarCraft II.jpeg",
     "3-Society/StarCraft II.jpeg",
     "StarCraft II.jpeg",
-    "3-Society/Self-Management/证悟的力量、勇气与匪气.md",
-    "3-Society/Self-Management/《SuperBetter（游戏改变人生）》.md",
-    "3-Society/Self-Management/IMG-Buddhist.jpeg",
     "3-Society/IMG-Buddhist.jpeg",
     "IMG-Buddhist.jpeg",
-    "3-Society/Self-Management/自我管理备忘录.canvas",
     "1-Life/Paper/001-因果熵强迫.pdf",
     "1-Life/Paper/001-Causal Entropic Forces.pdf",
     "1-Life/Notes/About Life.md",
     "3-Society/Relationship/About Relationship.md",
     "3-Society/Self-Management/IMG-《SuperBetter》-1.png",
-    "3-Society/Self-Management/IMG-《为什么没人早点告诉我》.jpg",
     "3-Society/IMG-《为什么没人早点告诉我》.jpg",
-    "IMG-《为什么没人早点告诉我》.jpg",
     "3-Society/Start-Up/Sam.md",
     "3-Society/Start-Up/有效加速主义.md",
-    "2-Intelligence/Notes/About Intelligence.md",
     "1-Life/Paper/003-能量流和生命的组织.pdf",
     "1-Life/Paper/003-Energy flow and the organization of life.pdf",
     "1-Life/Paper/Energy flow and the organization of life.pdf",
@@ -180,11 +180,7 @@
     "1-Life/Energy flow and the organization of life.pdf",
     "1-Life/能量流和生命的组织.pdf",
     "Energy flow and the organization of life.pdf",
-    "能量流和生命的组织.pdf",
     "3-Society/Product Management/PM工作原则 V0.1.1.md",
-    "2-Intelligence/Notes/LoRA.md",
-    "2-Intelligence/Notes/Diffusion Model.md",
-    "2-Intelligence/Notes/LCM-LoRA.md",
     "Society/Self-Management/《SuperBetter（游戏改变人生）》.md",
     "Society/Self-Management/自我管理备忘录.canvas",
     "Self-Management/自我管理备忘录.canvas",
